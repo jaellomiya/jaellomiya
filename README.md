@@ -1,6 +1,14 @@
 # Hi👋, Im Jeal Lomiya
 ## I'm an passionate Frontend Developer👩‍💻
 - ❤ With a heart captivated by the beauty of code, I've fallen deeply in love with the artistry of front-end development.
+- 🌱 I’m currently studying Web development at She Codes and Frontend Development at CodeAcademy.
+- 👯 I’m looking to collaborate on a ride booking app exclusively for womem.
+- 💬 Ask me about HTML, CSS, JavaScript and React.js
+- 📫 How to reach me:
+  
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a retired poet😉
+
 <!--
 **jaellomiya/jaellomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
