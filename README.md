@@ -1,5 +1,5 @@
-### Hi👋, Im Jeal Lomiya
-# I'm an passionate Frontend Developer👩‍💻
+# Hi👋, Im Jeal Lomiya
+### I'm an passionate Frontend Developer👩‍💻
 
 <!--
 **jaellomiya/jaellomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
