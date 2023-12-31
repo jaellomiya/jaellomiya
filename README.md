@@ -7,7 +7,8 @@
 - 📫 How to reach me:
 - ⚡ Fun fact: I'm a retired poet😉
 
-## My stats
+## My stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaellomiya&layout=compact)
 
 
 <!--
