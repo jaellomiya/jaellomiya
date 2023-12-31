@@ -2,11 +2,10 @@
 ## I'm an passionate Frontend Developer👩‍💻
 - ❤ With a heart captivated by the beauty of code, I've fallen deeply in love with the artistry of front-end development.
 - 🌱 I’m currently studying Web development at She Codes and Frontend Development at CodeAcademy.
-- 👯 I’m looking to collaborate on a ride booking app exclusively for womem.
-- 💬 Ask me about HTML, CSS, JavaScript and React.js
+- 👯 I’m looking to collaborate on React.js projects.
+- 💬 Ask me about HTML, CSS, JavaScript and React.js.
 - 📫 How to reach me:
-  
-- 😄 Pronouns: She/Her
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaellomiya&size_weight=0.5&count_weight=0.5)
 - ⚡ Fun fact: I'm a retired poet😉
 
 ## My stats
