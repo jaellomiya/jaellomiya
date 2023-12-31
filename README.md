@@ -1,5 +1,5 @@
 # Hi👋, Im Jeal Lomiya
-### I'm an passionate Frontend Developer👩‍💻
+## I'm an passionate Frontend Developer👩‍💻
 - ❤ With a heart captivated by the beauty of code, I've fallen deeply in love with the artistry of front-end development.
 <!--
 **jaellomiya/jaellomiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
