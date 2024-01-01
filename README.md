@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on React.js projects.
 - 💬 Ask me about HTML, CSS, JavaScript and React.js.
 - 📫 How to reach me:
+- <a href="www.linkedin.com/in/jeal-l-78259721b"><i class="fa-brands fa-linkedin"></i></a>
 - ⚡ Fun fact: I'm a retired poet😉
 
 ## My stats:
