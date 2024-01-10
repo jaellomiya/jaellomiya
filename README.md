@@ -4,7 +4,8 @@
 - 🌱 I’m currently studying Web development at She Codes and Web Development Intern at CodSoft
 - 👯 I’m looking to become an expert in React.js.
 - 💬 Ask me about HTML, CSS, JavaScript and React.js.
-- 📫 How to reach me: <br />
+- 📫 How to reach me:
+   <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jaellomiya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jeal-l-78259721b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/jaellomiya/?next=%2F/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://glowing-portfolio.netlify.app/)  
 
 
