@@ -2,7 +2,7 @@
 ## I'm an passionate Frontend Developer👩‍💻
 - ❤ With a heart captivated by the beauty of code, I've fallen deeply in love with the artistry of front-end development.
 - 🌱 I’m currently studying Web development at She Codes and Web Development Intern at CodSoft
-- 👯 I’m looking to become an expert in React.js.
+- 👯 I’m looking for someone to mentor me so i can become an expert in React.js and Angular.
 - 💬 Ask me about HTML, CSS, JavaScript and React.js.
 - 📫 How to reach me:
    <br />
